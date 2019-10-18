@@ -1,0 +1,7 @@
+D:\多线程\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\多线程\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\多线程\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\多线程\ConsoleApp1\ConsoleApp1\obj\Debug\两个线程交替执行.csprojAssemblyReference.cache
+D:\多线程\ConsoleApp1\ConsoleApp1\obj\Debug\两个线程交替执行.csproj.CoreCompileInputs.cache
+D:\多线程\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\多线程\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
